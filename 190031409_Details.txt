@@ -1,6 +1,0 @@
-Project Id-24
-Project Title-Tour Guide
-Team Lead Id-190031409
-Team Lead Name-R.Krishna Teja
-Team Member Id-190031808
-Team Member Name-Y.Abhiram
